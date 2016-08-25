@@ -1,6 +1,4 @@
-	This Git Reporsitory is just created for learning Git & 
-GitHub by Tolga. 
-	And Other account is a trying account and owner is Tolga.
+	This Git Reporsitory is just created for learning Git & GitHub by Tolga TUNA. 
+	And Other account (okangokalp) is a trying account and owner is Tolga TUNA.
 	
-	Some Texts Are Modified.
-	Another Line Added.
+	Copyrigth (c) 2016 - Tolga TUNA.
