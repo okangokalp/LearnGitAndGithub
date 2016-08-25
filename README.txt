@@ -2,3 +2,4 @@
 GitHub by Tolga. 
 	And Other account is a trying account and owner is Tolga.
 	
+	Some Texts Are Modified.
